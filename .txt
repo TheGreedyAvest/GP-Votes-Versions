@@ -1,0 +1,5 @@
+There is something call Toolbox found in the GP Votes. It has been remove since v0.1.5, at that time, Renderer extension was added into GP Votes, and Toolbox only play as clear
+CLI screen, this make an argue between Renderer and Toolbox, and Toolbox just got removed since Renderer but it might soon return.
+
+At beginning, we don't actually has Head Master to control frontend for users, we use direct control over the extensions. To make development easier, we added Head Master to
+control and manage the systems to for developers and users doesn't touches extensions directly.
